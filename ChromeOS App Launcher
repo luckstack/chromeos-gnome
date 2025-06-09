@@ -1,6 +1,6 @@
 [/]
 button-padding=5
-custom-menu-button-icon='/home/$user/.icons/empty-circle-svgrepo-com.svg'
+custom-menu-button-icon='/home/$user/.icons/applauncher.svg'
 custom-menu-button-icon-size=16.0
 disable-recently-installed-apps=true
 force-menu-location='BottomLeft'
